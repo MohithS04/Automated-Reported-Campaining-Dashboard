@@ -1,0 +1,81 @@
+event_id,event_name,department,event_type,event_date,invitations_sent,rsvps_received,attendees,donations_collected,new_contacts,follow_ups_sent,satisfaction_score
+AR-EVT-001,Winter Holiday Social,Alumni Relations,Homecoming,2024-06-17,732,231,200,14039.66,26,186,3.8
+AR-EVT-002,Tech Alumni Symposium,Alumni Relations,Fundraiser,2024-01-13,410,180,156,8791.15,41,140,3.3
+AR-EVT-003,Founders Day Celebration,Alumni Relations,Networking,2024-06-29,643,163,140,2872.13,22,128,4.6
+AR-EVT-004,Tech Alumni Symposium,Alumni Relations,Volunteer,2024-01-07,2746,917,805,656.35,47,777,3.5
+AR-EVT-005,Homecoming Weekend Gala,Alumni Relations,Homecoming,2023-01-01,1465,624,511,4535.14,14,466,3.8
+AR-EVT-006,Homecoming Weekend Gala,Alumni Relations,Reunion,2023-08-15,575,214,169,10495.81,26,140,3.6
+AR-EVT-007,Regional Alumni Meetup,Alumni Relations,Volunteer,2023-01-14,2642,463,352,3935.25,44,285,3.2
+AR-EVT-008,Founders Day Celebration,Alumni Relations,Fundraiser,2024-10-12,2189,727,605,5389.22,37,497,3.9
+AR-EVT-009,Campus Volunteer Day,Alumni Relations,Volunteer,2024-09-07,2193,675,547,5512.96,43,443,3.4
+AR-EVT-010,Annual Charity Auction,Alumni Relations,Networking,2024-08-05,1246,295,228,12434.63,32,190,3.8
+AR-EVT-011,Winter Holiday Social,Alumni Relations,Networking,2023-08-04,2249,714,630,8854.18,30,612,3.1
+AR-EVT-012,Class of 2014 Reunion,Alumni Relations,Fundraiser,2023-02-10,518,211,182,14334.99,50,168,3.6
+AR-EVT-013,Career Mentorship Night,Alumni Relations,Reunion,2024-09-06,1530,308,289,11502.42,49,284,3.2
+AR-EVT-014,Tech Alumni Symposium,Alumni Relations,Reunion,2024-10-24,1196,335,278,1966.18,24,263,3.4
+AR-EVT-015,Summer Alumni Picnic,Alumni Relations,Networking,2023-03-01,512,155,119,12748.8,27,103,4.9
+AR-EVT-016,Family Weekend Brunch,Alumni Relations,Networking,2023-12-07,1167,211,169,4337.48,14,160,4.3
+AR-EVT-017,Homecoming Weekend Gala,Alumni Relations,Fundraiser,2023-02-18,2100,790,712,11222.63,41,661,5.0
+AR-EVT-018,Regional Alumni Meetup,Alumni Relations,Homecoming,2024-06-16,818,230,194,15784.63,22,178,3.7
+AR-EVT-019,Spring Networking Mixer,Alumni Relations,Homecoming,2024-06-20,2091,597,454,20792.42,9,421,5.0
+AR-EVT-020,Spring Networking Mixer,Alumni Relations,Volunteer,2023-03-31,2633,795,669,13857.91,7,595,4.6
+AR-EVT-021,Family Weekend Brunch,Alumni Relations,Networking,2023-11-29,1516,502,426,23943.06,33,349,4.8
+AR-EVT-022,Regional Alumni Meetup,Alumni Relations,Reunion,2024-01-20,2266,779,590,17690.54,33,533,4.2
+AR-EVT-023,Regional Alumni Meetup,Alumni Relations,Homecoming,2023-07-05,1358,361,326,16972.44,8,312,4.3
+AR-EVT-024,Spring Networking Mixer,Alumni Relations,Homecoming,2024-09-02,587,186,153,6299.89,47,151,4.2
+AR-EVT-025,Homecoming Weekend Gala,Alumni Relations,Homecoming,2023-10-24,533,173,134,8745.52,46,125,3.8
+AR-EVT-026,Tailgate & Traditions,Alumni Relations,Reunion,2023-05-29,1468,466,409,8211.91,13,382,4.7
+AR-EVT-027,Winter Holiday Social,Alumni Relations,Volunteer,2024-01-13,582,200,166,9045.7,28,143,4.9
+AR-EVT-028,Regional Alumni Meetup,Alumni Relations,Fundraiser,2024-05-25,986,214,166,1929.13,11,149,4.1
+AR-EVT-029,Winter Holiday Social,Alumni Relations,Volunteer,2023-05-21,354,123,113,15450.79,43,98,3.3
+AR-EVT-030,Tech Alumni Symposium,Alumni Relations,Volunteer,2023-08-07,878,321,243,9107.49,20,241,4.2
+AR-EVT-031,Summer Alumni Picnic,Alumni Relations,Fundraiser,2024-11-27,1158,359,291,20215.6,35,285,3.4
+AR-EVT-032,Family Weekend Brunch,Alumni Relations,Volunteer,2024-03-30,2004,578,466,9546.81,38,411,3.3
+AR-EVT-033,Annual Charity Auction,Alumni Relations,Volunteer,2023-11-03,766,315,239,12014.77,28,217,3.2
+AR-EVT-034,Tech Alumni Symposium,Alumni Relations,Volunteer,2023-12-29,710,167,150,6819.78,37,124,3.9
+AR-EVT-035,Young Alumni Happy Hour,Alumni Relations,Networking,2023-03-26,2047,850,795,10372.42,30,715,3.5
+AR-EVT-036,Spring Networking Mixer,Alumni Relations,Homecoming,2023-06-07,1119,177,165,20979.41,46,143,3.3
+AR-EVT-037,Class of 2014 Reunion,Alumni Relations,Homecoming,2023-08-25,2135,766,595,17638.4,33,549,4.8
+AR-EVT-038,Class of 2014 Reunion,Alumni Relations,Homecoming,2024-02-16,1083,433,372,18180.87,38,329,4.6
+AR-EVT-039,Annual Charity Auction,Alumni Relations,Homecoming,2023-06-11,699,114,95,19847.48,34,77,4.7
+AR-EVT-040,Founders Day Celebration,Alumni Relations,Volunteer,2023-06-04,2395,371,316,6048.45,14,271,3.0
+AR-EVT-041,Regional Alumni Meetup,Alumni Relations,Networking,2023-02-19,2537,697,615,2140.35,28,500,4.1
+AR-EVT-042,Alumni Awards Dinner,Alumni Relations,Volunteer,2024-03-17,2469,385,355,1088.36,29,353,3.5
+AR-EVT-043,Class of 2014 Reunion,Alumni Relations,Homecoming,2023-06-10,476,120,107,15706.42,42,101,3.7
+AR-EVT-044,Class of 2014 Reunion,Alumni Relations,Homecoming,2024-09-25,2436,612,537,20759.59,48,479,4.4
+AR-EVT-045,Family Weekend Brunch,Alumni Relations,Networking,2024-08-24,752,127,114,11441.99,23,95,4.6
+AR-EVT-046,Young Alumni Happy Hour,Alumni Relations,Reunion,2023-02-19,1492,641,546,24728.07,39,488,3.1
+AR-EVT-047,Family Weekend Brunch,Alumni Relations,Networking,2023-06-16,1371,352,318,21644.96,26,271,4.6
+AR-EVT-048,Career Mentorship Night,Alumni Relations,Fundraiser,2024-04-13,2001,837,692,24343.09,36,649,3.7
+AR-EVT-049,Summer Alumni Picnic,Alumni Relations,Volunteer,2023-05-30,1292,504,451,1973.18,43,450,3.4
+AR-EVT-050,Campus Volunteer Day,Alumni Relations,Homecoming,2023-04-03,620,107,94,7662.4,43,88,3.3
+AR-EVT-051,Founders Day Celebration,Alumni Relations,Homecoming,2024-10-16,2031,330,304,8813.98,32,259,5.0
+AR-EVT-052,Class of 2014 Reunion,Alumni Relations,Reunion,2024-02-04,2949,1006,827,20027.4,48,688,3.1
+AR-EVT-053,Tech Alumni Symposium,Alumni Relations,Volunteer,2023-11-27,2977,1144,865,1680.83,46,755,3.8
+AR-EVT-054,Tailgate & Traditions,Alumni Relations,Reunion,2024-07-03,2678,524,440,9274.11,33,419,4.1
+AR-EVT-055,Alumni Awards Dinner,Alumni Relations,Homecoming,2024-07-19,1830,447,360,24013.0,6,340,4.0
+AR-EVT-056,Career Mentorship Night,Alumni Relations,Volunteer,2023-05-14,682,155,124,11156.83,44,106,4.8
+AR-EVT-057,Founders Day Celebration,Alumni Relations,Networking,2023-03-09,702,133,101,4316.41,50,89,3.2
+AR-EVT-058,Family Weekend Brunch,Alumni Relations,Homecoming,2023-10-29,2935,746,569,13554.28,24,552,4.4
+AR-EVT-059,Young Alumni Happy Hour,Alumni Relations,Networking,2023-10-24,1680,508,393,5024.51,13,333,4.0
+AR-EVT-060,Regional Alumni Meetup,Alumni Relations,Volunteer,2023-11-23,2544,663,603,13791.17,44,589,3.1
+AR-EVT-061,Career Mentorship Night,Alumni Relations,Fundraiser,2024-05-25,2353,642,534,14372.51,13,531,4.3
+AR-EVT-062,Founders Day Celebration,Alumni Relations,Fundraiser,2024-04-16,2985,911,706,20726.34,40,655,3.4
+AR-EVT-063,Homecoming Weekend Gala,Alumni Relations,Fundraiser,2024-11-19,2259,956,727,3104.03,14,625,3.3
+AR-EVT-064,Young Alumni Happy Hour,Alumni Relations,Networking,2023-03-10,1617,702,599,7101.21,10,509,4.3
+AR-EVT-065,Alumni Awards Dinner,Alumni Relations,Homecoming,2023-10-09,712,240,209,2335.71,46,174,4.9
+AR-EVT-066,Homecoming Weekend Gala,Alumni Relations,Networking,2023-08-26,2898,977,909,8440.49,41,734,4.7
+AR-EVT-067,Spring Networking Mixer,Alumni Relations,Reunion,2024-08-26,2827,1077,864,5270.21,41,763,4.3
+AR-EVT-068,Founders Day Celebration,Alumni Relations,Volunteer,2023-06-24,1386,474,384,6121.95,48,338,3.9
+AR-EVT-069,Winter Holiday Social,Alumni Relations,Reunion,2023-05-14,847,238,201,5100.58,43,166,4.7
+AR-EVT-070,Regional Alumni Meetup,Alumni Relations,Homecoming,2023-11-11,1833,346,285,14041.28,25,241,3.2
+AR-EVT-071,Founders Day Celebration,Alumni Relations,Networking,2023-10-23,777,139,112,9603.75,44,98,4.9
+AR-EVT-072,Young Alumni Happy Hour,Alumni Relations,Networking,2023-07-14,1541,662,591,4745.85,15,531,4.0
+AR-EVT-073,Founders Day Celebration,Alumni Relations,Homecoming,2023-06-24,2237,351,329,12636.11,20,277,3.7
+AR-EVT-074,Class of 2014 Reunion,Alumni Relations,Homecoming,2024-10-08,2227,733,673,16813.02,23,610,4.7
+AR-EVT-075,Career Mentorship Night,Alumni Relations,Networking,2023-11-07,1283,472,426,9148.43,30,345,4.1
+AR-EVT-076,Regional Alumni Meetup,Alumni Relations,Volunteer,2024-08-25,1382,237,201,19110.1,22,193,4.2
+AR-EVT-077,Tailgate & Traditions,Alumni Relations,Reunion,2024-01-21,727,321,266,19872.43,26,242,3.7
+AR-EVT-078,Homecoming Weekend Gala,Alumni Relations,Networking,2023-02-05,2667,807,685,1132.58,13,645,4.6
+AR-EVT-079,Alumni Awards Dinner,Alumni Relations,Fundraiser,2024-11-30,810,268,228,8199.15,44,196,3.8
+AR-EVT-080,Tailgate & Traditions,Alumni Relations,Homecoming,2024-08-08,2631,660,604,13308.5,50,551,3.9

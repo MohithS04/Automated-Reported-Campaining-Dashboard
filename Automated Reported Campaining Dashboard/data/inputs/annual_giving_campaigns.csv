@@ -1,0 +1,121 @@
+campaign_id,campaign_name,department,launch_date,end_date,segment_name,records_sent,emails_delivered,emails_opened,links_clicked,gifts_received,total_raised,campaign_cost
+AG-2023-001,Global Outreach Campaign,Annual Giving,2024-03-23,2024-04-13,All Alumni,2753,2538,451,104,129,27495.64,3034.36
+AG-2023-002,Homecoming Appeal 2023,Annual Giving,2023-01-18,2023-02-02,All Alumni,2291,2109,570,209,104,35215.59,2213.7
+AG-2023-003,Arts & Culture Appeal,Annual Giving,2023-07-12,2023-09-01,First-Time Donors,553,535,97,31,13,11158.03,3864.77
+AG-2023-004,Faculty Excellence Fund,Annual Giving,2023-06-06,2023-06-25,Major Gift Prospects,1292,1204,263,73,15,23241.53,799.17
+AG-2023-005,Library Enrichment Fund,Annual Giving,2024-05-30,2024-06-18,Young Alumni,2901,2827,773,354,112,35376.31,419.96
+AG-2023-006,President's Circle Appeal,Annual Giving,2024-04-18,2024-05-20,All Alumni,2407,2354,532,178,124,8551.38,1905.3
+AG-2023-007,Diversity & Inclusion Fund,Annual Giving,2024-09-16,2024-10-17,All Alumni,1901,1802,358,121,44,46306.86,3503.18
+AG-2023-008,President's Circle Appeal,Annual Giving,2023-03-02,2023-04-28,First-Time Donors,958,881,137,40,22,10943.65,4725.97
+AG-2023-009,Health Sciences Appeal,Annual Giving,2023-10-23,2023-11-26,Lapsed Donors,4589,4293,1429,482,106,12708.06,2894.57
+AG-2023-010,Legacy Giving Initiative,Annual Giving,2023-01-21,2023-03-13,Major Gift Prospects,3771,3516,1228,296,130,37911.22,4333.29
+AG-2023-011,Student Scholarship Push,Annual Giving,2023-06-03,2023-07-27,Lapsed Donors,3958,3774,856,324,132,12945.0,2855.48
+AG-2023-012,Spring Annual Fund 2024,Annual Giving,2023-12-20,2024-02-15,All Alumni,4898,4739,1439,434,120,8328.81,215.58
+AG-2023-013,Sustainability Initiative,Annual Giving,2023-01-19,2023-03-20,First-Time Donors,4600,4455,1120,259,189,42162.63,2636.78
+AG-2023-014,Giving Tuesday Blitz,Annual Giving,2023-05-20,2023-06-12,First-Time Donors,1823,1729,528,189,18,16545.72,293.49
+AG-2023-015,Athletics Booster Drive,Annual Giving,2024-03-30,2024-05-02,Lapsed Donors,974,897,236,52,45,40893.15,4894.33
+AG-2023-016,Campus Beautification,Annual Giving,2024-01-17,2024-02-08,Lapsed Donors,4393,4328,792,283,177,48235.96,4658.78
+AG-2023-017,First-Gen Student Fund,Annual Giving,2023-06-04,2023-08-03,Lapsed Donors,3053,2857,812,253,167,22848.56,1389.95
+AG-2023-018,Year-End Giving Drive,Annual Giving,2024-02-17,2024-03-23,All Alumni,2385,2272,344,141,30,3836.32,350.78
+AG-2023-019,Parents Fund Campaign,Annual Giving,2024-07-20,2024-08-07,Young Alumni,2449,2265,559,202,113,44177.96,2965.82
+AG-2023-020,President's Circle Appeal,Annual Giving,2023-01-05,2023-02-18,Major Gift Prospects,2059,1870,526,161,62,43259.92,460.02
+AG-2023-021,Global Outreach Campaign,Annual Giving,2024-07-18,2024-09-11,All Alumni,996,932,203,93,22,9915.34,2353.35
+AG-2023-022,STEM Innovation Campaign,Annual Giving,2024-05-03,2024-05-28,First-Time Donors,4289,3956,1323,440,227,27741.1,442.82
+AG-2023-023,Campus Beautification,Annual Giving,2023-08-27,2023-09-10,All Alumni,2436,2228,550,145,73,3402.45,2019.07
+AG-2023-024,Library Enrichment Fund,Annual Giving,2023-04-19,2023-05-19,Major Gift Prospects,2836,2660,908,452,107,36061.21,943.02
+AG-2023-025,Senior Class Gift,Annual Giving,2024-11-01,2024-11-28,All Alumni,4941,4474,951,204,167,46009.66,2749.41
+AG-2023-026,Homecoming Appeal 2023,Annual Giving,2023-08-24,2023-10-09,All Alumni,2022,1832,299,137,61,47109.01,2934.44
+AG-2023-027,Emergency Relief Fund,Annual Giving,2023-03-06,2023-04-27,All Alumni,1171,1098,292,104,66,10610.83,3637.72
+AG-2023-028,President's Circle Appeal,Annual Giving,2023-03-09,2023-04-08,Major Gift Prospects,1572,1509,316,93,74,4090.88,2399.77
+AG-2023-029,Emergency Relief Fund,Annual Giving,2024-08-16,2024-09-05,All Alumni,4904,4507,915,439,265,44023.88,1973.73
+AG-2023-030,Alumni Loyalty Campaign,Annual Giving,2024-02-27,2024-04-09,Young Alumni,2978,2844,988,391,30,40946.65,1637.02
+AG-2023-031,Diversity & Inclusion Fund,Annual Giving,2024-07-18,2024-08-07,Lapsed Donors,2666,2427,416,152,62,30439.08,3644.54
+AG-2023-032,Giving Tuesday Blitz,Annual Giving,2024-05-25,2024-07-21,First-Time Donors,4640,4380,1450,658,67,21467.0,1528.07
+AG-2023-033,Spring Annual Fund 2024,Annual Giving,2024-01-11,2024-02-15,Lapsed Donors,2645,2418,576,237,100,6037.76,4736.24
+AG-2023-034,Health Sciences Appeal,Annual Giving,2024-11-12,2024-12-05,Young Alumni,795,775,206,50,13,15758.79,4515.11
+AG-2023-035,Homecoming Appeal 2023,Annual Giving,2023-09-22,2023-10-28,Lapsed Donors,2544,2442,539,198,136,48704.93,3797.49
+AG-2023-036,President's Circle Appeal,Annual Giving,2024-01-22,2024-02-15,Lapsed Donors,3877,3497,1039,311,219,40210.64,4347.51
+AG-2023-037,President's Circle Appeal,Annual Giving,2024-08-03,2024-09-03,Lapsed Donors,1385,1294,204,69,27,45963.37,1878.36
+AG-2023-038,President's Circle Appeal,Annual Giving,2024-03-08,2024-04-05,All Alumni,2082,1948,400,88,101,17881.73,2645.15
+AG-2023-039,Diversity & Inclusion Fund,Annual Giving,2024-08-26,2024-10-13,First-Time Donors,726,660,227,57,42,13640.58,720.33
+AG-2023-040,STEM Innovation Campaign,Annual Giving,2024-02-09,2024-03-16,First-Time Donors,4074,3888,980,309,158,13108.76,3602.17
+AG-2023-041,Spring Annual Fund 2024,Annual Giving,2024-05-08,2024-06-24,Young Alumni,2114,1971,323,128,56,16038.82,4270.47
+AG-2023-042,Sustainability Initiative,Annual Giving,2023-02-02,2023-03-07,Young Alumni,3033,2911,626,256,114,9996.08,3391.66
+AG-2023-043,Library Enrichment Fund,Annual Giving,2023-06-09,2023-08-05,Lapsed Donors,2965,2776,879,255,60,39395.06,3111.98
+AG-2023-044,Parents Fund Campaign,Annual Giving,2023-07-22,2023-09-03,Major Gift Prospects,4122,3960,998,437,239,36930.09,3362.48
+AG-2023-045,Senior Class Gift,Annual Giving,2023-02-25,2023-04-12,Young Alumni,3245,2947,1003,271,82,40424.86,907.3
+AG-2023-046,Homecoming Appeal 2023,Annual Giving,2023-06-12,2023-07-11,Major Gift Prospects,1096,1031,337,125,50,19506.93,2118.33
+AG-2023-047,Student Scholarship Push,Annual Giving,2023-03-12,2023-05-06,All Alumni,1373,1331,257,113,61,23495.22,2875.55
+AG-2023-048,Faculty Excellence Fund,Annual Giving,2023-07-14,2023-08-26,Lapsed Donors,4306,4134,1436,543,247,44625.58,3140.73
+AG-2023-049,Sustainability Initiative,Annual Giving,2024-03-20,2024-05-05,Major Gift Prospects,4988,4689,852,390,162,37712.95,4231.34
+AG-2023-050,Legacy Giving Initiative,Annual Giving,2023-09-13,2023-10-30,Major Gift Prospects,2459,2273,376,107,57,16325.62,2792.73
+AG-2023-051,Student Scholarship Push,Annual Giving,2023-09-17,2023-10-10,Lapsed Donors,3637,3500,1019,223,110,27359.25,2195.72
+AG-2023-052,Giving Tuesday Blitz,Annual Giving,2023-05-27,2023-07-06,Major Gift Prospects,660,644,195,61,6,17912.06,3816.68
+AG-2023-053,STEM Innovation Campaign,Annual Giving,2023-07-06,2023-08-23,Young Alumni,2306,2176,445,153,67,33609.24,4031.08
+AG-2023-054,Sustainability Initiative,Annual Giving,2024-10-17,2024-11-10,Major Gift Prospects,1545,1526,391,184,61,33318.49,602.95
+AG-2023-055,STEM Innovation Campaign,Annual Giving,2024-03-29,2024-04-20,Major Gift Prospects,1988,1798,406,106,52,38180.87,2019.81
+AG-2023-056,First-Gen Student Fund,Annual Giving,2024-03-02,2024-04-11,First-Time Donors,1170,1102,330,71,67,11599.0,529.37
+AG-2023-057,Global Outreach Campaign,Annual Giving,2023-04-30,2023-05-16,All Alumni,2525,2317,356,87,41,33638.21,2907.05
+AG-2023-058,Giving Tuesday Blitz,Annual Giving,2024-05-25,2024-07-07,First-Time Donors,3521,3222,874,370,55,41055.41,4830.66
+AG-2023-059,Faculty Excellence Fund,Annual Giving,2023-04-25,2023-06-15,All Alumni,3055,2907,963,301,174,10317.32,3042.07
+AG-2023-060,Global Outreach Campaign,Annual Giving,2023-09-23,2023-10-22,All Alumni,2970,2900,783,185,175,39240.45,1866.58
+AG-2024-061,STEM Innovation Campaign,Annual Giving,2024-11-23,2025-01-18,First-Time Donors,1064,1006,219,99,54,5724.17,4811.78
+AG-2024-062,Global Outreach Campaign,Annual Giving,2024-03-23,2024-05-05,Lapsed Donors,4067,3724,947,374,165,46021.07,3918.28
+AG-2024-063,Arts & Culture Appeal,Annual Giving,2024-01-25,2024-03-06,Young Alumni,2698,2506,498,239,64,22814.7,3802.29
+AG-2024-064,Emergency Relief Fund,Annual Giving,2024-04-24,2024-06-16,Major Gift Prospects,3255,2937,940,239,67,39992.7,1833.63
+AG-2024-065,Digital Learning Initiative,Annual Giving,2024-08-12,2024-10-09,First-Time Donors,583,551,103,28,17,27981.22,1353.55
+AG-2024-066,Community Impact Drive,Annual Giving,2024-06-27,2024-08-21,Major Gift Prospects,4171,4051,683,182,185,15657.2,2991.47
+AG-2024-067,Community Impact Drive,Annual Giving,2023-06-10,2023-07-29,Young Alumni,3316,3111,930,278,149,13910.36,1406.74
+AG-2024-068,Faculty Excellence Fund,Annual Giving,2023-01-23,2023-03-24,Lapsed Donors,3084,2808,722,309,59,11211.04,2524.15
+AG-2024-069,Sustainability Initiative,Annual Giving,2023-08-09,2023-09-29,Young Alumni,2818,2784,881,254,79,15462.25,3598.49
+AG-2024-070,Student Scholarship Push,Annual Giving,2023-07-07,2023-08-07,All Alumni,946,898,259,61,50,24798.5,4389.05
+AG-2024-071,Emergency Relief Fund,Annual Giving,2023-05-28,2023-06-29,Major Gift Prospects,4421,4154,776,167,252,24147.59,4146.16
+AG-2024-072,Library Enrichment Fund,Annual Giving,2024-10-22,2024-12-06,All Alumni,939,857,267,129,13,12785.45,2878.75
+AG-2024-073,STEM Innovation Campaign,Annual Giving,2024-09-05,2024-10-27,Young Alumni,2348,2277,514,242,58,29631.99,2258.38
+AG-2024-074,Emergency Relief Fund,Annual Giving,2023-08-09,2023-10-01,All Alumni,1312,1292,247,65,56,8274.33,1034.31
+AG-2024-075,Year-End Giving Drive,Annual Giving,2024-04-03,2024-04-27,All Alumni,3846,3617,972,279,82,35494.31,3574.34
+AG-2024-076,Arts & Culture Appeal,Annual Giving,2023-10-04,2023-10-22,Lapsed Donors,2667,2589,712,283,151,21544.38,2813.9
+AG-2024-077,Global Outreach Campaign,Annual Giving,2024-10-02,2024-10-25,First-Time Donors,1665,1509,276,80,79,28675.75,1585.33
+AG-2024-078,Faculty Excellence Fund,Annual Giving,2023-11-18,2023-12-31,First-Time Donors,3797,3739,935,325,53,2473.11,2273.74
+AG-2024-079,Parents Fund Campaign,Annual Giving,2023-07-05,2023-08-26,First-Time Donors,711,645,220,99,27,47563.92,4997.95
+AG-2024-080,Diversity & Inclusion Fund,Annual Giving,2023-06-22,2023-07-23,Young Alumni,829,803,148,52,26,14268.75,4985.34
+AG-2024-081,STEM Innovation Campaign,Annual Giving,2024-01-28,2024-03-22,Major Gift Prospects,1247,1175,272,80,18,8460.83,2175.9
+AG-2024-082,Community Impact Drive,Annual Giving,2023-07-03,2023-08-04,Major Gift Prospects,800,752,160,47,46,20506.67,2670.06
+AG-2024-083,Spring Annual Fund 2024,Annual Giving,2024-02-14,2024-04-10,Young Alumni,4284,4014,752,232,204,31457.73,3847.95
+AG-2024-084,Giving Tuesday Blitz,Annual Giving,2024-09-20,2024-10-21,Young Alumni,1573,1547,367,150,25,48670.77,3122.58
+AG-2024-085,President's Circle Appeal,Annual Giving,2023-10-07,2023-12-05,Lapsed Donors,3045,2891,752,171,181,45690.03,2414.95
+AG-2024-086,Faculty Excellence Fund,Annual Giving,2023-06-03,2023-07-28,Lapsed Donors,4582,4508,939,386,141,24383.73,2466.65
+AG-2024-087,Arts & Culture Appeal,Annual Giving,2024-11-29,2025-01-17,Lapsed Donors,3642,3340,901,381,61,3955.6,3908.84
+AG-2024-088,STEM Innovation Campaign,Annual Giving,2023-12-23,2024-01-27,Young Alumni,2688,2617,540,156,105,49945.67,2550.27
+AG-2024-089,Student Scholarship Push,Annual Giving,2023-03-05,2023-04-16,Young Alumni,4467,4159,1082,392,146,16427.98,1105.53
+AG-2024-090,Health Sciences Appeal,Annual Giving,2023-02-02,2023-03-03,Young Alumni,3637,3349,1021,217,171,35408.78,4094.76
+AG-2024-091,Library Enrichment Fund,Annual Giving,2023-03-18,2023-05-13,Lapsed Donors,4557,4497,788,385,121,5468.05,4256.19
+AG-2024-092,Faculty Excellence Fund,Annual Giving,2024-03-15,2024-05-01,Major Gift Prospects,625,603,139,55,11,23739.78,4852.18
+AG-2024-093,Parents Fund Campaign,Annual Giving,2024-07-08,2024-08-30,Major Gift Prospects,1157,1129,361,165,33,16174.73,3649.84
+AG-2024-094,First-Gen Student Fund,Annual Giving,2023-10-23,2023-12-07,Young Alumni,794,758,149,60,19,11760.57,633.82
+AG-2024-095,Faculty Excellence Fund,Annual Giving,2023-02-14,2023-04-09,All Alumni,4134,3782,793,165,108,3277.9,1920.62
+AG-2024-096,STEM Innovation Campaign,Annual Giving,2023-09-25,2023-10-18,Lapsed Donors,4851,4545,1301,330,90,30669.84,2036.21
+AG-2024-097,Diversity & Inclusion Fund,Annual Giving,2024-11-28,2024-12-27,Major Gift Prospects,1672,1539,427,144,72,44995.97,2433.22
+AG-2024-098,Senior Class Gift,Annual Giving,2024-01-06,2024-03-03,Young Alumni,1794,1626,551,273,44,48120.44,3513.5
+AG-2024-099,Arts & Culture Appeal,Annual Giving,2024-11-10,2024-12-13,Lapsed Donors,3651,3566,610,191,102,15145.68,3556.54
+AG-2024-100,Spring Annual Fund 2024,Annual Giving,2024-08-25,2024-10-20,Major Gift Prospects,2748,2475,799,346,161,45575.54,3776.83
+AG-2024-101,Senior Class Gift,Annual Giving,2023-01-09,2023-02-06,Young Alumni,3386,3114,585,160,161,38489.8,3468.1
+AG-2024-102,Student Scholarship Push,Annual Giving,2024-05-19,2024-07-12,All Alumni,822,762,181,67,38,4961.6,1616.53
+AG-2024-103,Sustainability Initiative,Annual Giving,2024-04-22,2024-06-01,Lapsed Donors,2144,1955,504,247,78,45717.61,4186.27
+AG-2024-104,Legacy Giving Initiative,Annual Giving,2024-01-11,2024-02-24,First-Time Donors,3274,3183,775,172,156,11667.93,3446.35
+AG-2024-105,Diversity & Inclusion Fund,Annual Giving,2023-07-06,2023-08-14,Young Alumni,3496,3174,726,202,56,18744.99,3795.26
+AG-2024-106,Legacy Giving Initiative,Annual Giving,2024-03-24,2024-05-14,Major Gift Prospects,3543,3223,634,131,192,28289.67,4593.23
+AG-2024-107,President's Circle Appeal,Annual Giving,2023-03-20,2023-05-14,All Alumni,4303,4224,888,286,73,47339.95,1660.95
+AG-2024-108,Community Impact Drive,Annual Giving,2023-11-01,2023-11-22,All Alumni,2423,2374,420,141,105,37285.44,4740.68
+AG-2024-109,STEM Innovation Campaign,Annual Giving,2023-11-14,2024-01-04,Lapsed Donors,3898,3737,1183,455,222,14347.14,3513.35
+AG-2024-110,Giving Tuesday Blitz,Annual Giving,2024-10-29,2024-12-10,Major Gift Prospects,2434,2377,403,163,90,48903.21,1921.63
+AG-2024-111,Library Enrichment Fund,Annual Giving,2024-09-05,2024-10-06,Lapsed Donors,1500,1478,465,105,30,32154.9,4861.25
+AG-2024-112,Homecoming Appeal 2023,Annual Giving,2023-07-04,2023-08-08,Lapsed Donors,1531,1486,283,127,57,29525.96,4102.65
+AG-2024-113,President's Circle Appeal,Annual Giving,2023-12-17,2024-01-21,Lapsed Donors,523,483,167,82,19,40026.43,727.65
+AG-2024-114,Spring Annual Fund 2024,Annual Giving,2023-05-06,2023-05-28,All Alumni,3434,3334,658,195,64,3093.75,3760.25
+AG-2024-115,Research Excellence Fund,Annual Giving,2024-09-30,2024-10-21,All Alumni,4401,4138,920,347,143,11466.71,3152.51
+AG-2024-116,Sustainability Initiative,Annual Giving,2024-09-01,2024-10-27,Young Alumni,2970,2795,958,209,100,20380.05,3493.27
+AG-2024-117,Community Impact Drive,Annual Giving,2023-07-28,2023-09-25,Major Gift Prospects,1102,1080,231,56,17,31403.72,3009.75
+AG-2024-118,Health Sciences Appeal,Annual Giving,2024-03-23,2024-04-26,Major Gift Prospects,4846,4490,1127,370,240,6163.5,3342.62
+AG-2024-119,First-Gen Student Fund,Annual Giving,2024-03-02,2024-04-20,Lapsed Donors,4023,3784,740,223,131,21091.49,656.41
+AG-2024-120,STEM Innovation Campaign,Annual Giving,2023-04-17,2023-05-21,First-Time Donors,3566,3515,1010,345,51,4725.54,2273.01

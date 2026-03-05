@@ -1,0 +1,51 @@
+prospect_id,prospect_name,department,gift_officer,outreach_date,total_touches,meetings_held,proposals_sent,proposal_amount,gift_committed,commitment_date,cultivation_days
+MG-PR-001,Tammy Allison,Major Gifts,Sarah Mitchell,2023-04-27,14,6,0,0.0,0.0,,243
+MG-PR-002,Mr. James Brown,Major Gifts,Emma Davis,2023-09-23,3,3,3,140109.91,138152.35,2024-03-19,325
+MG-PR-003,Mrs. Rachel Gibson,Major Gifts,Robert Chen,2023-10-24,4,4,1,266873.84,236797.98,2024-02-28,105
+MG-PR-004,Whitney Peters,Major Gifts,Robert Chen,2024-05-17,4,1,0,0.0,0.0,,39
+MG-PR-005,Edward Novak,Major Gifts,David Okafor,2024-02-10,13,7,1,212350.45,0.0,,286
+MG-PR-006,Nicole Brown,Major Gifts,David Okafor,2024-02-13,4,2,2,111597.44,0.0,,274
+MG-PR-007,Sarah Moore,Major Gifts,Jennifer Wu,2024-11-03,13,3,3,456940.84,0.0,,211
+MG-PR-008,Cody Larson,Major Gifts,Emma Davis,2024-04-17,18,4,1,146713.13,0.0,,182
+MG-PR-009,Bryan Zamora,Major Gifts,Emma Davis,2023-06-22,9,8,2,245103.68,237074.74,2023-09-30,177
+MG-PR-010,Lisa Barnes,Major Gifts,James Crawford,2024-02-13,20,7,3,411004.96,370853.03,2024-05-27,51
+MG-PR-011,Taylor Harris,Major Gifts,Emma Davis,2024-05-16,5,3,3,331426.3,201173.58,2024-10-30,168
+MG-PR-012,James Powers,Major Gifts,Emma Davis,2023-07-29,7,1,0,0.0,0.0,,154
+MG-PR-013,Paul Jones,Major Gifts,Sarah Mitchell,2023-11-17,19,4,1,35720.64,30672.56,2024-01-11,100
+MG-PR-014,Dr. Angel Lewis MD,Major Gifts,Sarah Mitchell,2024-10-15,20,3,3,329917.47,243429.55,2025-01-04,177
+MG-PR-015,Sherry Wood,Major Gifts,Michael Torres,2023-04-21,12,1,0,0.0,0.0,,363
+MG-PR-016,Michele Carr,Major Gifts,Robert Chen,2024-11-22,20,1,0,0.0,0.0,,243
+MG-PR-017,Aimee Montoya,Major Gifts,Linda Park,2023-07-29,4,4,3,101292.7,94824.69,2023-11-10,49
+MG-PR-018,Teresa Taylor,Major Gifts,Sarah Mitchell,2023-03-22,12,2,1,149435.21,115311.72,2023-08-25,98
+MG-PR-019,Juan Nelson,Major Gifts,David Okafor,2024-02-28,11,4,0,0.0,0.0,,199
+MG-PR-020,Christina Walters,Major Gifts,Linda Park,2023-07-04,17,5,1,16901.26,0.0,,181
+MG-PR-021,Taylor Mathis Jr.,Major Gifts,Robert Chen,2023-10-24,8,7,3,262487.52,0.0,,78
+MG-PR-022,Aaron Wise,Major Gifts,Linda Park,2024-03-21,7,4,2,468554.44,0.0,,226
+MG-PR-023,Patrick Arnold,Major Gifts,Robert Chen,2023-10-27,17,5,2,157953.46,79879.89,2024-02-26,150
+MG-PR-024,Benjamin Ware,Major Gifts,Sarah Mitchell,2024-09-24,6,4,2,88261.24,84867.86,2025-01-11,90
+MG-PR-025,Sandra Aguilar,Major Gifts,Emma Davis,2023-04-14,14,4,1,479106.66,348544.99,2023-08-17,242
+MG-PR-026,Eric Nolan,Major Gifts,David Okafor,2024-07-11,20,4,1,343367.54,306862.54,2024-12-22,258
+MG-PR-027,Stephanie Clark,Major Gifts,Michael Torres,2023-06-24,5,5,0,0.0,0.0,,61
+MG-PR-028,Richard Henson,Major Gifts,Robert Chen,2023-10-12,20,3,1,170777.64,95314.42,2024-01-02,328
+MG-PR-029,Brittany Spears,Major Gifts,David Okafor,2024-08-28,5,5,3,406259.12,307385.37,2025-01-21,318
+MG-PR-030,Rita Keith,Major Gifts,Sarah Mitchell,2023-01-18,20,8,2,364407.24,330964.35,2023-04-13,326
+MG-PR-031,Evelyn Galvan,Major Gifts,James Crawford,2024-07-15,4,4,2,353188.59,187235.1,2024-08-31,271
+MG-PR-032,Rita Adams,Major Gifts,Sarah Mitchell,2024-07-05,12,7,1,386796.31,382606.01,2024-11-19,221
+MG-PR-033,Shane Garrison,Major Gifts,Jennifer Wu,2023-06-05,17,7,3,49322.5,46228.84,2023-08-08,364
+MG-PR-034,Julia Torres,Major Gifts,Michael Torres,2024-07-10,6,2,2,202598.73,0.0,,144
+MG-PR-035,Alexander Lee,Major Gifts,Sarah Mitchell,2023-08-18,3,2,1,340014.93,260440.15,2023-11-14,156
+MG-PR-036,Tracy Ramirez,Major Gifts,David Okafor,2024-03-25,14,3,2,102355.42,90353.73,2024-05-02,244
+MG-PR-037,William Herrera,Major Gifts,Sarah Mitchell,2024-10-19,10,4,0,0.0,0.0,,81
+MG-PR-038,Wesley White,Major Gifts,Sarah Mitchell,2024-11-04,17,1,0,0.0,0.0,,52
+MG-PR-039,Brian Hamilton,Major Gifts,Jennifer Wu,2024-05-24,17,4,1,379649.0,216425.67,2024-09-05,149
+MG-PR-040,Larry Dixon,Major Gifts,Michael Torres,2023-09-27,13,4,2,439366.58,334193.44,2024-02-09,183
+MG-PR-041,Dawn Fletcher,Major Gifts,Emma Davis,2023-01-02,4,2,2,342587.56,179324.73,2023-04-30,359
+MG-PR-042,Kimberly Ball,Major Gifts,Jennifer Wu,2024-06-03,19,6,3,210047.0,0.0,,124
+MG-PR-043,Helen Jones,Major Gifts,David Okafor,2024-04-09,10,4,2,430195.21,0.0,,267
+MG-PR-044,Erik Charles,Major Gifts,Sarah Mitchell,2024-05-18,20,7,3,283070.51,0.0,,154
+MG-PR-045,Eric Ortiz,Major Gifts,Emma Davis,2023-10-09,9,6,0,0.0,0.0,,260
+MG-PR-046,Cameron Fisher,Major Gifts,Michael Torres,2024-10-20,5,5,1,35252.95,28289.95,2024-11-29,67
+MG-PR-047,Stephanie Gilbert,Major Gifts,Robert Chen,2023-07-30,20,4,3,112355.65,73210.27,2023-09-01,138
+MG-PR-048,April Mitchell,Major Gifts,Robert Chen,2023-10-28,6,6,3,458076.24,390227.95,2024-03-07,152
+MG-PR-049,Mary Marshall,Major Gifts,Michael Torres,2023-11-06,12,7,3,271488.56,171249.77,2024-04-15,284
+MG-PR-050,John Santana,Major Gifts,David Okafor,2024-07-11,6,6,3,383198.19,0.0,,134
